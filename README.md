@@ -10,7 +10,7 @@
 
 This repo contains all my work for this specialization. All the code base and images, are taken from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
-*In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.*
+*In five courses, we will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. We will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. We will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. We will master not only the theory, but also see how it is applied in industry. We will practice all these ideas in Python and in TensorFlow, which we will teach.*
 
 ## Research Papers Referenced
 - [PAPERS.md](./PAPERS.md)
